@@ -1,6 +1,6 @@
 # British Airways Good or Bad?
 
-This project is a part of the Data Science virtual internship program offered by Forage with British Airways. 
+This project is a part of the Data Science virtual internship program 
 
 ## The virtual Internship is divided into two main tasks 
 
